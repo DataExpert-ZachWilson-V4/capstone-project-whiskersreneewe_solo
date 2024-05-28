@@ -1,1 +1,26 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1lXY_Wlg)
+Renee Capstone Proposal
+Datasets - 
+1. Redfin real estate
+2. EPA airnow data
+
+Project Idea - 
+Analyze how air quality affect housing prices in real time
+
+Data Model - (Hypothetically, haven't had time to look into the data)
+
+Real Estate data
+- house_id
+- zipcode
+- house_price
+
+Air quality data
+- airquality
+- zipcode
+
+Final Table
+- house_id
+- zipcode
+- airquality
+- house_price
+
+
